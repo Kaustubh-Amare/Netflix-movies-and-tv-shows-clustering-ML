@@ -12,7 +12,7 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 ## 
 ![netflix project approach](https://user-images.githubusercontent.com/112866030/210844322-74b9331f-bcf8-4b24-b73a-25f97ae7c507.png)
 
-## Tableau dashboard
+## EDA insights:- Tableau dashboard
 ![Netflix Dashboard](https://user-images.githubusercontent.com/112866030/210847918-7b17fbfe-4534-43e6-b253-f9dce1706b78.png)
 For interactive dashboard- [Click here](https://public.tableau.com/views/Netflixdasboard_16717379913640/NetflixDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)  (please select fullscreen option given at bottom right corner of dashboard for better experience. )
 
