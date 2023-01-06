@@ -16,4 +16,21 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 ![Netflix Dashboard](https://user-images.githubusercontent.com/112866030/210847918-7b17fbfe-4534-43e6-b253-f9dce1706b78.png)
 For interactive dashboard- [Click here](https://public.tableau.com/views/Netflixdasboard_16717379913640/NetflixDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)  (please select fullscreen option given at bottom right corner of dashboard for better experience. )
 
-##
+## Clustering
+* K-means clustering
+* Elbow curve 
+* Density-based spatial clustering (DBSCAN)
+* Hierarchial clustering
+* Agglomerative clustering
+* **Recommender System**- Cosine similarity
+  
+## Conclusion 
+* EDA of data gave very valueable insights, which will help in bussiness impact:
+  * TV-shows are better for audience retention.
+  * Opportunities based on countries were explored.
+
+* Clustering shows that K-means clustering is better for provided data.
+  * Silhouette score was 0.45 for 4 clusters & 4.43 for 6 clusters.
+  * We selected cluster of 6 to be ideal after reviewing ELBOW CURVE.
+  * Cosine based recommender system is working as expected.
+ 
